@@ -1,26 +1,26 @@
-# [Project Name] 🎯
+# [SAFE APP] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [thinkers]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Ashna Mariyam Shaji] - [LBSITW,Poojapura ]
+- Member 2: [Basima S] - [LBSITW,Poojapura ]
+
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Safe App is a personal safety app that provides real time tracking,emergency alerts,wearable device integration to monitor heart rate and voice tremors.It ensures user safety by detecting abnormal activities,confirming intended destinations, and sending alerts to emergency contacts, if the deviations occur or if the user is unresponsive.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Many individuals feel unsafe while walking or travelling alone due to risk of unexpected threatsand lack of immediate help.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[We're turning user's phone into a 24/7 personal bodyguard that tracks their location, monitors their heart rate and voice tremors, and checks in when things seem off. If you don't respond, it jumps into action—alerting your loved ones and authorities.]
 
 ## Technical Details
 ### Technologies/Components Used
@@ -29,11 +29,6 @@ For Software:
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:

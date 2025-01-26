@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-
+import Beep from './Beep';
 const EmergencyContacts = () => {
   const [contacts, setContacts] = useState([]);
   const [name, setName] = useState('');
@@ -72,6 +72,7 @@ const EmergencyContacts = () => {
           <p>No emergency contacts added.</p>
         )}
       </ul>
+      <Beep/>
     </div>
   );
 };
@@ -119,6 +120,7 @@ const styles = {
     borderRadius: '5px',
     cursor: 'pointer',
   },
+  
 };
 
 export default EmergencyContacts;

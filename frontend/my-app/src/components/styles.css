@@ -1,6 +1,6 @@
 .home-screen{
   /* Set background image */
-    background-image: url('C:\Users\basim_ubtw03o\Desktop\MySafeApp\frontend\my-app\src\assets\WhatsApp Image 2025-01-26 at 01.46.47_fcb7b248.jpg');
+    background-image: url('../assets/img3.jpg');
     background-size: cover; /* Cover the entire screen */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* No repeating */
@@ -8,7 +8,7 @@
   }
 .Welcome-container{
     /* Set background image */
-      background-image: url('C:\Users\basim_ubtw03o\Desktop\MySafeApp\frontend\my-app\src\assets\WhatsApp Image 2025-01-26 at 01.46.47_fcb7b248.jpg');
+      background-image: url('../assets/img3.jpg');
       background-size: cover; /* Cover the entire screen */
       background-position: center; /* Center the image */
       background-repeat: no-repeat; /* No repeating */
