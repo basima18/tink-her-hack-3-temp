@@ -25,10 +25,10 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [Languages used are javascript, css and HTML]
 - [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Libraries used are react and node]
+- [Tools useds are VS Code]
 
 ### Implementation
 For Software:
@@ -42,14 +42,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1 : c:\Users\basim_ubtw03o\OneDrive\Documents\safewalk\Screenshot 2025-01-26 100247.png]
+It is front end of application in which login is done
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2 c:\Users\basim_ubtw03o\OneDrive\Documents\safewalk\Screenshot 2025-01-26 100409.png]
+ It is the page were the pop up message is popped up
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3 c:\Users\basim_ubtw03o\OneDrive\Documents\safewalk\Screenshot 2025-01-26 100512.png]
+ This is  showing that when device is in silent mode the application sents a beep sound
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
