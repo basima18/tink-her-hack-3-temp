@@ -10,6 +10,7 @@
 - Member 2: [Basima S] - [LBSITW,Poojapura ]
 
 
+
 ### Hosted Project Link
 [mention your project hosted project link here]
 
@@ -33,10 +34,12 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[node server.js]
 
 # Run
-[commands]
+[npm init
+npm start
+node server.js]
 
 ### Project Documentation
 For Software:
